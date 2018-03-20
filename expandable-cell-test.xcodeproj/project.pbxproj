@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					213212A81E3C62030055FA20 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = ENJ8MS4EMS;
+						DevelopmentTeam = 6D3MPJ3XMW;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -259,7 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ENJ8MS4EMS;
+				DEVELOPMENT_TEAM = 6D3MPJ3XMW;
 				INFOPLIST_FILE = "expandable-cell-test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "co.descogrid.expandable-cell-test";
@@ -272,7 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = ENJ8MS4EMS;
+				DEVELOPMENT_TEAM = 6D3MPJ3XMW;
 				INFOPLIST_FILE = "expandable-cell-test/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "co.descogrid.expandable-cell-test";
@@ -300,6 +300,7 @@
 				213212BD1E3C62030055FA20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
